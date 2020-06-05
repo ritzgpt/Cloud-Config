@@ -1,2 +1,3 @@
-spring:
-	greeting: member service default 
+service:
+	
+greeting: member service default 

@@ -1,2 +1,2 @@
-spring:
-	greeting: member service prod 
+service:
+greeting: member service prod 

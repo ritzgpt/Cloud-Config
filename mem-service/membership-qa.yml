@@ -1,2 +1,2 @@
-spring:
-	greeting: member service qa 
+service:
+greeting: member service qa 

@@ -1,2 +1,2 @@
-spring:
-	greeting: member service dev 
+service:
+greeting: member service dev 
